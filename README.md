@@ -1,9 +1,1 @@
-# Portfolio_InteractiveList
-
-Great example of DOM manipulation by adding JavaScript logic. 
-
-Converting user input into elements visible on screen. 
-
-Source: TreeHouse.
-
-are you interested in hiring a Front End Web Developer? Email me at: r.j.kamman@gmail.com
+Just a practice project. But since you're here. Go to www.roaldkamman.com for my live portfolio! 
